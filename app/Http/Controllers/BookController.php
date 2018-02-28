@@ -34,7 +34,7 @@ class BookController extends Controller
 
     public function index()
     {   
-        dd('111');
+        
         return view('books.index',['data'=> $this->bookService->getData()]);
     }
 
