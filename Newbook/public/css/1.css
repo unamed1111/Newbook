@@ -1,0 +1,43 @@
+*{}
+
+.col-md-9.content {
+    border: 1px solid #a7a5a4;
+    
+}
+
+table.table.table-inverse.table-bordered {
+    height: 300px;
+    
+}
+
+.col-md-4.offset-2 {
+    color: teal;
+}
+
+.text h2 {
+    font-family:  sans-serif;
+    font-size: 35px;
+}
+
+.row.text {
+    padding: 25px;
+}
+
+ul.list-group {
+    padding-top: 20px;
+}
+
+.col-md-2.sidebar {
+    
+    border: 1px solid #a7a5a4;
+    
+}
+
+.container-fluid.hihi {
+    height: 600px;
+    padding-top: 20px;
+}
+
+.footer .row {
+    padding-top: 10px;
+}
